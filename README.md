@@ -54,4 +54,4 @@ If you find this repo useful , give it a star so as many people can get to know 
 
 ## Credits
 
-All the credits to [Davis David ](https://twitter.com/Davis_McDavid)
+All the credits to [Ishan Bhardwaj ](https://linkedin.com/in/ishanbh)
