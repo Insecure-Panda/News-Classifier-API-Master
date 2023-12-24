@@ -1,4 +1,4 @@
-# Swahili News Classifier API
+# Ishan's News Classifier API
 
 An API developed by using the FastAPI library and uses an NLP model to classify the category of the news in the Swahili language.
 
@@ -8,11 +8,11 @@ API URL: [https://limitless-forest-00896.herokuapp.com/news-prediction/](https:/
 
 The NLP model will classify news by using the following categories.
 
-1. Kitaifa (National)
-2. Michezo (Sports)
-3. Biashara (Economy)
-4. Kimataifa (International)
-5. Burudani (Entertainment)
+1. National
+2. Sports
+3. Economy
+4. International
+5. Entertainment
 
 
 ## Example 
@@ -22,7 +22,7 @@ How to use the API URL in your own application.The example below uses python pro
 import requests as r
 
 # sample news article
-news = "Mshambuliaji wa Chelsea Romelu Lukaku amehusishwa na kurejea katika klabu yake ya zamani Inter Milan lakini mchezaji huyo wa kimataifa wa Ubelgiji mwenye umri wa miaka 28 anataka kusalia na kupigania nafasi yake Stamford Bridge. (Mirror)"
+news = "Chelsea midfielder Romelu Lukaku has been linked with a move to former club Inter Milan but the 28-year-old Belgian is set to move to Stamford Bridge. (Mirror)"
 
 # make prediction
 keys = {"news": news}
