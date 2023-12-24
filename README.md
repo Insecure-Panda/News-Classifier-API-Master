@@ -1,4 +1,4 @@
-# Ishan's News Classifier API
+# News Classifier API
 
 An API developed by using the FastAPI library and uses an NLP model to classify the category of the news in the Swahili language.
 
