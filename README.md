@@ -22,7 +22,7 @@ How to use the API URL in your own application.The example below uses python pro
 import requests as r
 
 # sample news article
-news = "Mshambuliaji wa Chelsea Romelu Lukaku amehusishwa na kurejea katika klabu yake ya zamani Inter Milan lakini mchezaji huyo wa kimataifa wa Ubelgiji mwenye umri wa miaka 28 anataka kusalia na kupigania nafasi yake Stamford Bridge.
+news = "Mshambuliaji wa Chelsea Romelu Lukaku amehusishwa na kurejea katika klabu yake ya zamani Inter Milan lakini mchezaji huyo wa kimataifa wa Ubelgiji mwenye umri wa miaka 28 anataka kusalia na kupigania nafasi yake Stamford Bridge."
 
 # make prediction
 keys = {"news": news}
